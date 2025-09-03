@@ -31,7 +31,7 @@ Aqui vocês encontrarão **slides, apostilas, exercícios e projetos** organizad
 ---
 
 ## 🔗 Links Úteis
-- [Site oficial da disciplina](https://fatec.sp.gov.br)  
+
 - [Documentação GitHub para estudantes](https://education.github.com)  
 - [Manifesto Ágil](https://agilemanifesto.org/iso/ptbr/manifesto.html)  
 
